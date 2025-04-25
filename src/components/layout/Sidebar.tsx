@@ -54,7 +54,7 @@ const Sidebar = ({ isCollapsed, setIsCollapsed, activePage, setActivePage }: Sid
         {!isCollapsed && (
           <div className="flex items-center gap-2">
             <Box className="text-erp-primary" size={24} />
-            <span className="font-bold text-sidebar-foreground text-xl">Odoo UI</span>
+            <span className="font-bold text-sidebar-foreground text-xl">EnterpriseX</span>
           </div>
         )}
         <Button 
